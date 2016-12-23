@@ -1,0 +1,8 @@
+String Manipulation
+com.armandakopian.lifecyclesorter
+com.morcinek.android.codegenerator.plugin.intellij
+com.pandawarrior.androidXMLConverter
+de.u-mass.idea.copyConstructor
+com.crashlytics.tools.androidstudio
+org.roana0229.android-xml-sorter
+pl.charmas.parcelablegenerator
